@@ -1,0 +1,17 @@
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\bin\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.exe
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\bin\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.deps.json
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\bin\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.runtimeconfig.json
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\bin\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.dll
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\bin\Debug\net6.0-windows\ref\ArrayList form tasarımı uygulaması-33.dll
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\bin\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.pdb
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.csproj.AssemblyReference.cache
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList_form_tasarımı_uygulaması_33.Form1.resources
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.csproj.GenerateResource.cache
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.AssemblyInfoInputs.cache
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.AssemblyInfo.cs
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.csproj.CoreCompileInputs.cache
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.dll
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ref\ArrayList form tasarımı uygulaması-33.dll
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.pdb
+C:\Users\lab4006\source\repos\ArrayList form tasarımı uygulaması-33\ArrayList form tasarımı uygulaması-33\obj\Debug\net6.0-windows\ArrayList form tasarımı uygulaması-33.genruntimeconfig.cache
